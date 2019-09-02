@@ -1,4 +1,4 @@
-# Dustnet Mappa
+# Dustnet Mapper
 
 This is the firmware for the dustnet mapper. It has been build especially for the [Dustmap](https://dustmap.org) project. It uses [LoRaWAN](https://lora-alliance.org/about-lorawan) and [The Things Network](https://www.thethingsnetwork.org) (short: TTN) and [TTNMapper](http://ttnmapper.org).
 
